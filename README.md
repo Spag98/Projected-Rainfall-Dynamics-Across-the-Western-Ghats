@@ -1,4 +1,5 @@
 # Spatio-Temporal Assessment of Rainfall Variability in the Western Ghats (CMIP6)
+## Geospatial climate analysis project evaluating rainfall variability and extremes across the Western Ghats using CMIP6 climate projections.
 
 ## Overview
 This project analyzes projected rainfall variability across the Western Ghats using CMIP6 climate model outputs (EC-Earth3, SSP245 scenario). The study evaluates spatial differences in rainfall extremes and interannual variability relevant to climate adaptation and flood risk planning.
@@ -19,6 +20,20 @@ Daily precipitation data were aggregated into annual rainfall totals and analyze
 • Descriptive statistics 
 • Mann-Kendall trend test  
 • Sen’s slope estimation  
+
+## Visual Results
+
+### Rainfall Trends Across Western Ghats Sections
+![Rainfall Trends](maps_and_figures/annual_rainfall_trend.png)
+
+### Western Ghats Section Map
+![Climate Window Comparison](maps_and_figures/western_ghats_grid_points_by_section.png)
+
+### Rainfall Distribution Across Sections
+![Rainfall Distribution](maps_and_figures/Linear_Trends_in_Annual_Rainfall.png)
+
+### Climate Window Comparison
+![Western Ghats Map](maps_and_figures/trend_bars.png)
 
 ## Key Findings
 Central Western Ghats show the highest rainfall extremes (~3013 mm at 95th percentile).  
